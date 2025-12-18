@@ -82,10 +82,11 @@ h1 {
 
 .msg-container {
     height: 100px;
-    width: 210px;
+    width: 400px;
     display: flex;
     align-items: center;
     flex-direction: column;
     gap: 10px;
     justify-content: center;
 }
+
